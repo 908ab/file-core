@@ -59,7 +59,7 @@
         <ownerName>908ab</ownerName>
 
         <jersey.version>2.25.1</jersey.version>
-        <apache.commons.io.version>2.6</apache.commons.io.version>
+        <apache.commons.io.version>2.7</apache.commons.io.version>
         <lombok.version>1.16.20</lombok.version>
     </properties>
 
